@@ -25,26 +25,12 @@
 ### 🧬 TECH STACK // NEURAL MODULES
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,ts,react,nextjs,firebase,tailwind,git,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,ts,react,nextjs,nodejs,bun,fastapi,flask,django,appwrite,tailwind,mongodb,postgres,docker,git,linux,vim,cmake,express,bash,arch&perline=8" />
 </p>
-
----
-
-### ⚡ SYSTEM METRICS
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Namansharma2408&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Namansharma2408&theme=radical&hide_border=true&background=0d1117&ring=00F0FF&fire=FF00FF&currStreakLabel=00F0FF"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hyprland-00F0FF?style=for-the-badge"/>
 </p>
-
----
-
-### 📡 ACTIVITY MATRIX
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Namansharma2408&theme=react-dark&bg_color=0d1117&hide_border=true&color=00F0FF&line=FF00FF&point=FFFFFF"/>
-</p>
-
 ---
 
 ### 🧠 CURRENT UPGRADE PATH
@@ -72,10 +58,10 @@
 ### 🌐 CONNECT
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/naman-sharma-ab36353aa/">
     <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:namansharma.techwork@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
